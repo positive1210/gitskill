@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 creating a new branch is quick and simple.
 走一步算一步！
+Creating a new branch is quick & simple.
